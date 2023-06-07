@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-07T17:21:42.159Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="9ieVi31K2e9V9EkJuIvn" version="20.8.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-07T17:22:47.259Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="x8FaArXX_3TdUEQ2_XMT" version="20.8.10" type="github">
   <diagram name="第 1 页" id="SSLs9a8aK7hEzwHF-V_V">
-    <mxGraphModel dx="568" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="568" dy="288" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,7 +22,7 @@
           <mxGeometry x="500" y="275" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sfnMSoEM-NCYtmPpQdEC-16" value="&lt;font face=&quot;Times New Roman&quot;&gt;Lagrangian-&lt;/font&gt;&lt;span style=&quot;font-size: 11px; font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;dual&lt;/span&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
-          <mxGeometry x="370" y="274.38" width="110" height="20" as="geometry" />
+          <mxGeometry x="351.25" y="272.19" width="150" height="24.38" as="geometry" />
         </mxCell>
         <mxCell id="sfnMSoEM-NCYtmPpQdEC-17" value="$$\mathbb{P}_c$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="380" y="350" width="20" height="20" as="geometry" />
