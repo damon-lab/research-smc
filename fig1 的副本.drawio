@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-08T01:49:28.441Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="jkjhwFeR24vWabR9omyX" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-08T01:58:14.172Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="jEy5cbgieRZodZZYWeoj" version="21.3.7" type="github">
   <diagram name="第 1 页" id="SSLs9a8aK7hEzwHF-V_V">
-    <mxGraphModel dx="724" dy="401" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="724" dy="362" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,9 +20,6 @@
         </mxCell>
         <mxCell id="sfnMSoEM-NCYtmPpQdEC-8" value="&lt;p style=&quot;line-height: 0%;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 11px;&quot;&gt;Relax&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
           <mxGeometry x="500" y="275" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="sfnMSoEM-NCYtmPpQdEC-16" value="&lt;font face=&quot;Times New Roman&quot;&gt;Lagrange-&lt;/font&gt;&lt;span style=&quot;font-size: 11px; font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;dual&lt;/span&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
-          <mxGeometry x="351.25" y="272.19" width="150" height="24.38" as="geometry" />
         </mxCell>
         <mxCell id="sfnMSoEM-NCYtmPpQdEC-17" value="$$\mathbb{P}_c$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="380" y="350" width="20" height="20" as="geometry" />
@@ -87,7 +84,7 @@
         <mxCell id="Pp01OgDB8cOK3t0NA6hv-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Times New Roman;" parent="1" source="Pp01OgDB8cOK3t0NA6hv-17" target="Pp01OgDB8cOK3t0NA6hv-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JHUeXsTik7aRcTCUHlbB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pp01OgDB8cOK3t0NA6hv-19">
+        <mxCell id="JHUeXsTik7aRcTCUHlbB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Pp01OgDB8cOK3t0NA6hv-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="731.25" y="290" as="targetPoint" />
           </mxGeometry>
