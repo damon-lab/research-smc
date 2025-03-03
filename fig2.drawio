@@ -276,7 +276,7 @@
           <mxGeometry x="161.5" y="580" width="132.5" height="180" as="geometry" />
         </mxCell>
         <mxCell id="TXLG84Zdcfli_P3e0sqE-6" value="$$\mathbb{P}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="265.25" y="607.95" width="20" height="20" as="geometry" />
+          <mxGeometry x="246.25" y="607.95" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TXLG84Zdcfli_P3e0sqE-7" value="$$\tilde{\mathbb{P}}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="274" y="647.64" width="20" height="20" as="geometry" />
@@ -288,7 +288,7 @@
           <mxGeometry x="167.75" y="647.64" width="115" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TXLG84Zdcfli_P3e0sqE-10" value="$$\mathbb{P}_c$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="700.0000000000001" width="20" height="20" as="geometry" />
+          <mxGeometry x="263" y="700.0000000000001" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TXLG84Zdcfli_P3e0sqE-13" value="$$\lambda_{t+1}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="630" y="640" width="30" height="30" as="geometry" />
@@ -302,7 +302,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TXLG84Zdcfli_P3e0sqE-16" value="原始问题" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="160.25" y="603.27" width="130" height="28.12" as="geometry" />
+          <mxGeometry x="175.25" y="603.27" width="99.75" height="28.12" as="geometry" />
         </mxCell>
         <mxCell id="TXLG84Zdcfli_P3e0sqE-17" value="推理模型选择" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="365.85999999999996" y="688.6000000000001" width="110" height="20" as="geometry" />
@@ -374,7 +374,7 @@
           <mxGeometry x="440" y="583" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TXLG84Zdcfli_P3e0sqE-11" value="$$\tilde{\alpha}_{t+1}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="TXLG84Zdcfli_P3e0sqE-46">
-          <mxGeometry x="100" y="20" width="30" height="30" as="geometry" />
+          <mxGeometry x="100" y="17" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TXLG84Zdcfli_P3e0sqE-23" value="&lt;div style=&quot;line-height: 90%;&quot;&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Times New Roman&quot;&gt;修正的梯度下降&lt;/font&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 11px;&quot;&gt;更新实数域解&amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="TXLG84Zdcfli_P3e0sqE-46">
           <mxGeometry width="140" height="50" as="geometry" />
