@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-10T08:55:04.420Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Cv1bwP8ONGU9VhoAgmVF" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="第 1 页" id="SSLs9a8aK7hEzwHF-V_V">
-    <mxGraphModel dx="988" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="842" dy="457" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -257,6 +257,127 @@
         </mxCell>
         <mxCell id="pxTEWj7LgMfRWPrPXoyE-37" value="Learning From" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="509.5" y="445.29999999999995" width="126" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="TXLG84Zdcfli_P3e0sqE-1" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=Times New Roman;fillColor=#CCE5FF;dashed=1;strokeColor=#66B2FF;" vertex="1" parent="1">
+          <mxGeometry x="320.18" y="580" width="377.62" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="TXLG84Zdcfli_P3e0sqE-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TXLG84Zdcfli_P3e0sqE-3" target="TXLG84Zdcfli_P3e0sqE-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TXLG84Zdcfli_P3e0sqE-3" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=Times New Roman;fillColor=#FFE6CC;dashed=1;fontColor=#FFE6CC;strokeColor=#FFB366;" vertex="1" parent="1">
+          <mxGeometry x="328.47999999999996" y="659.24" width="190.13" height="71.25" as="geometry" />
+        </mxCell>
+        <mxCell id="TXLG84Zdcfli_P3e0sqE-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TXLG84Zdcfli_P3e0sqE-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TXLG84Zdcfli_P3e0sqE-5" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=Times New Roman;fillColor=#FFCCCC;dashed=1;strokeColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="161.5" y="580" width="132.5" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="TXLG84Zdcfli_P3e0sqE-6" value="$$\mathbb{P}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="265.25" y="607.95" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TXLG84Zdcfli_P3e0sqE-7" value="$$\tilde{\mathbb{P}}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="274" y="647.64" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TXLG84Zdcfli_P3e0sqE-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TXLG84Zdcfli_P3e0sqE-9" target="TXLG84Zdcfli_P3e0sqE-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TXLG84Zdcfli_P3e0sqE-9" value="&lt;p style=&quot;line-height: 0%;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 11px;&quot;&gt;放缩到实数域求解&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="167.75" y="647.64" width="115" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TXLG84Zdcfli_P3e0sqE-10" value="$$\mathbb{P}_c$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="700.0000000000001" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TXLG84Zdcfli_P3e0sqE-13" value="$$\lambda_{t+1}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="630" y="640" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TXLG84Zdcfli_P3e0sqE-14" value="对偶上升" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="580.0000000000001" y="630.0000000000002" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TXLG84Zdcfli_P3e0sqE-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TXLG84Zdcfli_P3e0sqE-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="225.25" y="651.83" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TXLG84Zdcfli_P3e0sqE-16" value="原始问题" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="160.25" y="603.27" width="130" height="28.12" as="geometry" />
+        </mxCell>
+        <mxCell id="TXLG84Zdcfli_P3e0sqE-17" value="推理模型选择" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="365.85999999999996" y="688.6000000000001" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TXLG84Zdcfli_P3e0sqE-18" value="训练负载调度" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="375.85999999999996" y="663.47" width="100" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="TXLG84Zdcfli_P3e0sqE-19" value="$$\tilde{\mathbf{x}}_{t}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="467.5099999999999" y="661.71" width="20" height="16.25" as="geometry" />
+        </mxCell>
+        <mxCell id="TXLG84Zdcfli_P3e0sqE-20" value="$$\mathbf{y}_{t}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="456.98999999999995" y="689.8500000000001" width="25" height="17.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TXLG84Zdcfli_P3e0sqE-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Times New Roman;" edge="1" parent="1" source="TXLG84Zdcfli_P3e0sqE-20" target="TXLG84Zdcfli_P3e0sqE-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TXLG84Zdcfli_P3e0sqE-22" value="$${\alpha}_{t}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="338.48999999999995" y="675.31" width="21.75" height="17.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TXLG84Zdcfli_P3e0sqE-24" value="&lt;b&gt;&lt;font&gt;基于鞍点的在线学习算法&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000033;" vertex="1" parent="1">
+          <mxGeometry x="438.55" y="730.49" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TXLG84Zdcfli_P3e0sqE-25" value="&lt;p style=&quot;line-height: 0%;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 11px;&quot;&gt;拉格朗日对偶&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="160" y="700.0000000000001" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TXLG84Zdcfli_P3e0sqE-26" value="&lt;p style=&quot;line-height: 0%;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 11px;&quot;&gt;更新&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="600" y="640" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TXLG84Zdcfli_P3e0sqE-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TXLG84Zdcfli_P3e0sqE-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="419.06500000000005" y="659.23" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="419.32" y="609.23" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TXLG84Zdcfli_P3e0sqE-28" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=Times New Roman;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="458" y="590" width="115.18" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TXLG84Zdcfli_P3e0sqE-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TXLG84Zdcfli_P3e0sqE-30" target="TXLG84Zdcfli_P3e0sqE-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="636" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TXLG84Zdcfli_P3e0sqE-30" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=Times New Roman;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="590" y="630" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TXLG84Zdcfli_P3e0sqE-31" value="&lt;b&gt;问题重构&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000033;" vertex="1" parent="1">
+          <mxGeometry x="152.75" y="730" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TXLG84Zdcfli_P3e0sqE-32" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="360.23999999999995" y="671.8700000000001" width="15.62" height="27.03" as="geometry" />
+        </mxCell>
+        <mxCell id="TXLG84Zdcfli_P3e0sqE-33" value="&lt;b&gt;基于资源预留的随机舍入算法&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000033;" vertex="1" parent="1">
+          <mxGeometry x="320.18" y="704.49" width="206.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TXLG84Zdcfli_P3e0sqE-34" value="学习" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="520.17" y="696.24" width="126" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="TXLG84Zdcfli_P3e0sqE-35" value="两阶段随机舍入" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="310" y="627.9500000000002" width="126" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="TXLG84Zdcfli_P3e0sqE-37" value="从历史决策" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="519.5" y="675.3" width="126" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="TXLG84Zdcfli_P3e0sqE-46" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="440" y="583" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TXLG84Zdcfli_P3e0sqE-11" value="$$\tilde{\alpha}_{t+1}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="TXLG84Zdcfli_P3e0sqE-46">
+          <mxGeometry x="100" y="20" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TXLG84Zdcfli_P3e0sqE-23" value="&lt;div style=&quot;line-height: 90%;&quot;&gt;&lt;p&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Times New Roman&quot;&gt;修正的梯度下降&lt;/font&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 11px;&quot;&gt;更新实数域解&amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="TXLG84Zdcfli_P3e0sqE-46">
+          <mxGeometry width="140" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
